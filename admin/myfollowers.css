@@ -1,0 +1,27 @@
+.followers
+{
+  display: grid;
+  grid-template-columns: 1fr;
+   place-items: center; /* Center content within the grid */
+width: 20%; /* Adjust this width as needed */
+height: fit-content;
+max-width: 800px; /* Set a maximum width to prevent it from becoming too wide */
+padding: 0 auto;   /* Add padding for better visual spacing */
+border: 1px solid red; /* Optional border for visual clarity */
+background-color: burlywood; /* Optional background color */
+gap: 0.1rem;
+margin-left:40%;
+min-width:10rem; 
+}
+.fol{
+  margin-left:45.5%;
+font-size: 1.5rem;
+margin-bottom: 0;
+}
+.post__author
+{border-bottom: 2px solid #ccc;
+  text-align: center;
+  padding: 0 ;
+  margin: 0 ;
+ margin-left: -3rem;
+}

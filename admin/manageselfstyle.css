@@ -1,0 +1,17 @@
+.list{
+  margin-bottom: 1rem;
+}
+.big
+{margin-top: 7%;
+  margin-left: 41%;
+  margin-right: 41%;
+
+  min-width: 12rem;
+}
+.inner
+{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
